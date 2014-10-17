@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nex:home|Door43 (nex)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nex|d43-nex repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nex/archive/master.zip|d43-nex.zip]]
+
+**Recent Changes**
+{{changes>ns = nex}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nex|Ethnologue data]]
+
